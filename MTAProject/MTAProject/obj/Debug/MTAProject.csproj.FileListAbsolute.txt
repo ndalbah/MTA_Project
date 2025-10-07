@@ -1,0 +1,11 @@
+C:\Users\NRD\Documents\MTAProject\MTAProject\MTAProject\bin\Debug\MTAProject.exe.config
+C:\Users\NRD\Documents\MTAProject\MTAProject\MTAProject\bin\Debug\MTAProject.exe
+C:\Users\NRD\Documents\MTAProject\MTAProject\MTAProject\bin\Debug\MTAProject.pdb
+C:\Users\NRD\Documents\MTAProject\MTAProject\MTAProject\obj\Debug\MTAProject.csproj.AssemblyReference.cache
+C:\Users\NRD\Documents\MTAProject\MTAProject\MTAProject\obj\Debug\MTAProject.Form1.resources
+C:\Users\NRD\Documents\MTAProject\MTAProject\MTAProject\obj\Debug\MTAProject.Form2.resources
+C:\Users\NRD\Documents\MTAProject\MTAProject\MTAProject\obj\Debug\MTAProject.Properties.Resources.resources
+C:\Users\NRD\Documents\MTAProject\MTAProject\MTAProject\obj\Debug\MTAProject.csproj.GenerateResource.cache
+C:\Users\NRD\Documents\MTAProject\MTAProject\MTAProject\obj\Debug\MTAProject.csproj.CoreCompileInputs.cache
+C:\Users\NRD\Documents\MTAProject\MTAProject\MTAProject\obj\Debug\MTAProject.exe
+C:\Users\NRD\Documents\MTAProject\MTAProject\MTAProject\obj\Debug\MTAProject.pdb
